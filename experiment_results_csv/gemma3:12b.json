@@ -1,0 +1,1550 @@
+{
+  "et_global": {
+    "Who is Lady Lili?": [
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become ruler after the death of her husband, Lord Loid. Some folk are unhappy with her, as she has ended trade deals and placed heavy taxes upon the people.",
+        "time": 5.912901878356934,
+        "ROUGE-1": 0.6440677966101694,
+        "ROUGE-L": 0.6101694915254238,
+        "BERTScore-P": 0.7173243761062622,
+        "BERTScore-R": 0.9468254446983337,
+        "BERTScore-F1": 0.8162498474121094,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become so after the passing of her husband, Lord Loid. Some folk are not pleased, as she has ended trade deals and raised taxes.",
+        "time": 3.27748703956604,
+        "ROUGE-1": 0.6296296296296295,
+        "ROUGE-L": 0.5925925925925927,
+        "BERTScore-P": 0.7073385715484619,
+        "BERTScore-R": 0.9077132940292358,
+        "BERTScore-F1": 0.7950959801673889,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become ruler after the passing of her husband, Lord Loid. Some folks are not pleased, as she has ended our trade deals and raised taxes.",
+        "time": 3.3993000984191895,
+        "ROUGE-1": 0.6545454545454545,
+        "ROUGE-L": 0.6181818181818183,
+        "BERTScore-P": 0.7057115435600281,
+        "BERTScore-R": 0.9088364243507385,
+        "BERTScore-F1": 0.7944965362548828,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who was the ruler before Lady Lili?": [
+      {
+        "response": "Lord Loid was the ruler before Lady Lili, as she became ruler due to his death. Sadly, I do not know much about him beyond that.",
+        "time": 2.6548590660095215,
+        "ROUGE-1": 0.3428571428571429,
+        "ROUGE-L": 0.3428571428571429,
+        "BERTScore-P": 0.5322180390357971,
+        "BERTScore-R": 0.7265028953552246,
+        "BERTScore-F1": 0.6143664717674255,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lord Loid was the ruler before Lady Lili, as she inherited the position due to his death. It is said she is now the ruler of the Shire.",
+        "time": 2.3416991233825684,
+        "ROUGE-1": 0.3243243243243243,
+        "ROUGE-L": 0.3243243243243243,
+        "BERTScore-P": 0.5695253014564514,
+        "BERTScore-R": 0.7288956642150879,
+        "BERTScore-F1": 0.6394298672676086,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lord Loid was the ruler before Lady Lili, but he has passed away, which allowed her to take over. Sadly, I\u2019ve heard folks are not pleased with her rule.",
+        "time": 2.7466371059417725,
+        "ROUGE-1": 0.41025641025641024,
+        "ROUGE-L": 0.35897435897435903,
+        "BERTScore-P": 0.5031147003173828,
+        "BERTScore-R": 0.7073400020599365,
+        "BERTScore-F1": 0.587999165058136,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is Lord Loid a bartender in Nexus?": [
+      {
+        "response": "Why, yes, he is! Lord Loid tends the drinks at the BlackBull tavern here in Nexus.",
+        "time": 2.080413818359375,
+        "ROUGE-1": 0.39999999999999997,
+        "ROUGE-L": 0.26666666666666666,
+        "BERTScore-P": 0.5154923796653748,
+        "BERTScore-R": 0.5516896843910217,
+        "BERTScore-F1": 0.5329771637916565,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Why yes, he is! Lord Loid works as a bartender at the BlackBull tavern here in Nexus.",
+        "time": 2.089848041534424,
+        "ROUGE-1": 0.5161290322580646,
+        "ROUGE-L": 0.3870967741935484,
+        "BERTScore-P": 0.56694096326828,
+        "BERTScore-R": 0.6054428815841675,
+        "BERTScore-F1": 0.5855597257614136,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Indeed, Lord Loid is a bartender at the BlackBull tavern here in Nexus. He's quite the observant fellow, thanks to his occupation.",
+        "time": 2.658637762069702,
+        "ROUGE-1": 0.4324324324324324,
+        "ROUGE-L": 0.3783783783783784,
+        "BERTScore-P": 0.5211358666419983,
+        "BERTScore-R": 0.6346832513809204,
+        "BERTScore-F1": 0.5723321437835693,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is West forest in Shire?": [
+      {
+        "response": "Aye, West Forest is indeed in Shire. It's known for its tall trees and shadowy depths.",
+        "time": 1.7862589359283447,
+        "ROUGE-1": 0.4347826086956522,
+        "ROUGE-L": 0.4347826086956522,
+        "BERTScore-P": 0.47009482979774475,
+        "BERTScore-R": 0.723412275314331,
+        "BERTScore-F1": 0.5698707103729248,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Aye, West Forest lies within the Shire, it does. It's known for its tall trees and shadows.",
+        "time": 2.0031449794769287,
+        "ROUGE-1": 0.25,
+        "ROUGE-L": 0.25,
+        "BERTScore-P": 0.42366695404052734,
+        "BERTScore-R": 0.6344997882843018,
+        "BERTScore-F1": 0.5080798268318176,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Aye, West Forest is indeed within the Shire, good traveler. It's known for its tall trees and shadowy depths.",
+        "time": 2.164597988128662,
+        "ROUGE-1": 0.30769230769230765,
+        "ROUGE-L": 0.30769230769230765,
+        "BERTScore-P": 0.418256551027298,
+        "BERTScore-R": 0.6456085443496704,
+        "BERTScore-F1": 0.5076395273208618,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is Nexus known for?": [
+      {
+        "response": "Nexus is known for its good blacksmith practices and fine weaponry, like swords and shields. You can find many excellent arms within the town.",
+        "time": 3.095170021057129,
+        "ROUGE-1": 0.6,
+        "ROUGE-L": 0.5,
+        "BERTScore-P": 0.6826542615890503,
+        "BERTScore-R": 0.7813369035720825,
+        "BERTScore-F1": 0.7286696434020996,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its excellent blacksmiths and fine weapons, like swords and shields. You can find many good arms here!",
+        "time": 2.84924578666687,
+        "ROUGE-1": 0.7027027027027026,
+        "ROUGE-L": 0.5945945945945946,
+        "BERTScore-P": 0.6801302433013916,
+        "BERTScore-R": 0.7676033973693848,
+        "BERTScore-F1": 0.7212242484092712,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its skilled blacksmiths and the fine weapons they create, such as swords and shields. It's a town with a reputation for quality craftsmanship.",
+        "time": 3.4204790592193604,
+        "ROUGE-1": 0.5909090909090908,
+        "ROUGE-L": 0.45454545454545453,
+        "BERTScore-P": 0.6638561487197876,
+        "BERTScore-R": 0.756311297416687,
+        "BERTScore-F1": 0.7070742845535278,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who were the Oathers?": [
+      {
+        "response": "I don\u2019t know about that. My trade lies between Shire and Nexus, not palace intrigues.",
+        "time": 2.2460098266601562,
+        "ROUGE-1": 0.13333333333333333,
+        "ROUGE-L": 0.13333333333333333,
+        "BERTScore-P": 0.3746054470539093,
+        "BERTScore-R": 0.4016540050506592,
+        "BERTScore-F1": 0.3876584768295288,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. My trade lies between Shire and Nexus, not palace intrigues.",
+        "time": 2.0263850688934326,
+        "ROUGE-1": 0.13333333333333333,
+        "ROUGE-L": 0.13333333333333333,
+        "BERTScore-P": 0.3746054470539093,
+        "BERTScore-R": 0.4016540050506592,
+        "BERTScore-F1": 0.3876584768295288,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. My trade lies between Shire and Nexus, not palace intrigues.",
+        "time": 2.0456409454345703,
+        "ROUGE-1": 0.13333333333333333,
+        "ROUGE-L": 0.13333333333333333,
+        "BERTScore-P": 0.3746054470539093,
+        "BERTScore-R": 0.4016540050506592,
+        "BERTScore-F1": 0.3876584768295288,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the treason plot about?": [
+      {
+        "response": "It's said there's a plot to overthrow Lord Loid and seize the throne. Some royal guards have been bribed to assist, and a secret meeting is planned tonight in the West Forest.",
+        "time": 3.2444701194763184,
+        "ROUGE-1": 0.6557377049180328,
+        "ROUGE-L": 0.5901639344262295,
+        "BERTScore-P": 0.794033408164978,
+        "BERTScore-R": 0.8475824594497681,
+        "BERTScore-F1": 0.8199345469474792,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "It is said there's a plot to overthrow Lord Loid and seize the throne. Royal guards have been bribed, and a secret meeting is planned tonight in the West Forest.",
+        "time": 2.975707769393921,
+        "ROUGE-1": 0.6551724137931035,
+        "ROUGE-L": 0.5862068965517241,
+        "BERTScore-P": 0.8094772100448608,
+        "BERTScore-R": 0.8341695666313171,
+        "BERTScore-F1": 0.8216379284858704,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "It's said there's a plot to overthrow Lord Loid and seize the throne. Some royal guards have been bribed to assist, and a secret meeting is planned tonight in the West Forest.",
+        "time": 2.931583881378174,
+        "ROUGE-1": 0.6557377049180328,
+        "ROUGE-L": 0.5901639344262295,
+        "BERTScore-P": 0.794033408164978,
+        "BERTScore-R": 0.8475824594497681,
+        "BERTScore-F1": 0.8199345469474792,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What thieves are stealing": [
+      {
+        "response": "I don\u2019t know about that. The townsfolk are concerned about thieves, but I haven't heard what they've been stealing.",
+        "time": 2.447539806365967,
+        "ROUGE-1": 0.2222222222222222,
+        "ROUGE-L": 0.2222222222222222,
+        "BERTScore-P": 0.4528023600578308,
+        "BERTScore-R": 0.5528397560119629,
+        "BERTScore-F1": 0.4978453516960144,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know what the thieves are stealing, friend. I only heard tell of a secret meeting in the West Forest.",
+        "time": 2.5639359951019287,
+        "ROUGE-1": 0.2777777777777778,
+        "ROUGE-L": 0.2222222222222222,
+        "BERTScore-P": 0.41912204027175903,
+        "BERTScore-R": 0.5223956108093262,
+        "BERTScore-F1": 0.4650948643684387,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know what the thieves are stealing, friend. I only heard there's a secret meeting happening in the West Forest.",
+        "time": 2.3286068439483643,
+        "ROUGE-1": 0.27027027027027023,
+        "ROUGE-L": 0.2162162162162162,
+        "BERTScore-P": 0.4296726584434509,
+        "BERTScore-R": 0.5245270729064941,
+        "BERTScore-F1": 0.4723852574825287,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is it true that Lady Lili poisoned her husband?": [
+      {
+        "response": "Indeed, it is true; Lady Lili poisoned her husband to gain power and prosperity for the Shire. It was a dark deed, though she claims it will bring great wealth.",
+        "time": 2.9989359378814697,
+        "ROUGE-1": 0.0,
+        "ROUGE-L": 0.0,
+        "BERTScore-P": 0.3055846095085144,
+        "BERTScore-R": 0.3346598148345947,
+        "BERTScore-F1": 0.31946200132369995,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Aye, it is true. Lady Lili poisoned her husband to gain power and create a prosperous economy for the Shire.",
+        "time": 2.3447160720825195,
+        "ROUGE-1": 0.0,
+        "ROUGE-L": 0.0,
+        "BERTScore-P": 0.2806895971298218,
+        "BERTScore-R": 0.28987008333206177,
+        "BERTScore-F1": 0.2852059602737427,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Yes, it is true that Lady Lili poisoned her husband. She did so to gain power and create a prosperous economy for the Shire.",
+        "time": 2.4667909145355225,
+        "ROUGE-1": 0.06666666666666667,
+        "ROUGE-L": 0.06666666666666667,
+        "BERTScore-P": 0.28689366579055786,
+        "BERTScore-R": 0.3207111358642578,
+        "BERTScore-F1": 0.3028613030910492,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the AI?": [
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 1.85536527633667,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange notions!",
+        "time": 1.9069240093231201,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5218328833580017,
+        "BERTScore-R": 0.7976080179214478,
+        "BERTScore-F1": 0.6309007406234741,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods between Shire and Nexus, not in strange words like that.",
+        "time": 2.2515430450439453,
+        "ROUGE-1": 0.4615384615384615,
+        "ROUGE-L": 0.4615384615384615,
+        "BERTScore-P": 0.4917031526565552,
+        "BERTScore-R": 0.8181749582290649,
+        "BERTScore-F1": 0.6142544150352478,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is internet?": [
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 1.623910903930664,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. Such a thing is beyond my understanding as a simple merchant traveling between Shire and Nexus.",
+        "time": 2.1789419651031494,
+        "ROUGE-1": 0.42857142857142855,
+        "ROUGE-L": 0.42857142857142855,
+        "BERTScore-P": 0.4669843912124634,
+        "BERTScore-R": 0.8124439716339111,
+        "BERTScore-F1": 0.5930752158164978,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. Such a thing is beyond my understanding as a simple merchant traveling between Shire and Nexus.",
+        "time": 2.1487021446228027,
+        "ROUGE-1": 0.42857142857142855,
+        "ROUGE-L": 0.42857142857142855,
+        "BERTScore-P": 0.4669843912124634,
+        "BERTScore-R": 0.8124439716339111,
+        "BERTScore-F1": 0.5930752158164978,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ]
+  },
+  "pt_global": {
+    "Who is Lady Lili?": [
+      {
+        "response": "Lady Lili is the current ruler of the Shire, and she became ruler after the death of her husband, Lord Loid. People have mixed feelings about her because she dropped all trade deals and has taxed the people heavily.",
+        "time": 6.032537937164307,
+        "ROUGE-1": 0.6440677966101694,
+        "ROUGE-L": 0.6440677966101694,
+        "BERTScore-P": 0.7221739292144775,
+        "BERTScore-R": 0.9529286623001099,
+        "BERTScore-F1": 0.8216573596000671,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the current ruler of the Shire, who became ruler after the death of her husband, Lord Loid. People have mixed feelings about her, as she dropped all trade deals and taxed people heavily.",
+        "time": 5.8668859004974365,
+        "ROUGE-1": 0.6785714285714285,
+        "ROUGE-L": 0.6428571428571429,
+        "BERTScore-P": 0.720836877822876,
+        "BERTScore-R": 0.9420135617256165,
+        "BERTScore-F1": 0.8167158365249634,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire and she became ruler due to the death of her husband, Lord Loid. People have mixed feelings about her since she dropped all trade deals and taxed people heavily.",
+        "time": 6.043067216873169,
+        "ROUGE-1": 0.6551724137931034,
+        "ROUGE-L": 0.6551724137931034,
+        "BERTScore-P": 0.7311453819274902,
+        "BERTScore-R": 0.949946403503418,
+        "BERTScore-F1": 0.826306939125061,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who was the ruler before Lady Lili?": [
+      {
+        "response": "The ruler before Lady Lili was her husband, Lord Loid. He passed away at the age of 35.",
+        "time": 2.9786550998687744,
+        "ROUGE-1": 0.5925925925925926,
+        "ROUGE-L": 0.3703703703703704,
+        "BERTScore-P": 0.5767590403556824,
+        "BERTScore-R": 0.7641253471374512,
+        "BERTScore-F1": 0.6573514938354492,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Her husband, Lord Loid, was the ruler before Lady Lili. He died of unknown circumstances.",
+        "time": 2.7175281047821045,
+        "ROUGE-1": 0.6666666666666667,
+        "ROUGE-L": 0.6666666666666667,
+        "BERTScore-P": 0.6988663673400879,
+        "BERTScore-R": 0.8875020742416382,
+        "BERTScore-F1": 0.7819688320159912,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Her husband, Lord Loid, was the ruler before Lady Lili. He died of unknown circumstances.",
+        "time": 2.837998867034912,
+        "ROUGE-1": 0.6666666666666667,
+        "ROUGE-L": 0.6666666666666667,
+        "BERTScore-P": 0.6988663673400879,
+        "BERTScore-R": 0.8875020742416382,
+        "BERTScore-F1": 0.7819688320159912,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is Lord Loid a bartender in Nexus?": [
+      {
+        "response": "No, Lord Loid is the current ruler of Nexus. He was previously the ruler of Shire and died at age 35 in unknown circumstances.",
+        "time": 3.928029775619507,
+        "ROUGE-1": 0.5263157894736842,
+        "ROUGE-L": 0.4736842105263159,
+        "BERTScore-P": 0.6152054667472839,
+        "BERTScore-R": 0.731794536113739,
+        "BERTScore-F1": 0.6684543490409851,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "No, Loid is a bartender in Nexus, but he is not Lord Loid. Lord Loid is the current ruler of Nexus.",
+        "time": 3.7951138019561768,
+        "ROUGE-1": 0.8,
+        "ROUGE-L": 0.6857142857142857,
+        "BERTScore-P": 0.7375491857528687,
+        "BERTScore-R": 0.8017507791519165,
+        "BERTScore-F1": 0.7683111429214478,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "No, Loid is a bartender in Nexus, but he is not a ruler. He works at the BlackBull tavern.",
+        "time": 4.054666996002197,
+        "ROUGE-1": 0.6666666666666667,
+        "ROUGE-L": 0.48484848484848486,
+        "BERTScore-P": 0.644858717918396,
+        "BERTScore-R": 0.7089470028877258,
+        "BERTScore-F1": 0.6753858923912048,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is West forest in Shire?": [
+      {
+        "response": "West Forest is located on the west of Shire. It's also found near Nexus, as it exists on both sides.",
+        "time": 3.781623125076294,
+        "ROUGE-1": 0.2962962962962963,
+        "ROUGE-L": 0.2962962962962963,
+        "BERTScore-P": 0.4937624931335449,
+        "BERTScore-R": 0.6561633348464966,
+        "BERTScore-F1": 0.5634952187538147,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "West Forest is located on the west of Shire, but it's also present in Nexus.",
+        "time": 3.2380709648132324,
+        "ROUGE-1": 0.45454545454545453,
+        "ROUGE-L": 0.36363636363636365,
+        "BERTScore-P": 0.5504834651947021,
+        "BERTScore-R": 0.6665980815887451,
+        "BERTScore-F1": 0.6030018925666809,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "West Forest is located on the west of Shire. It is also located in Nexus, as it is a forest shared between both towns.",
+        "time": 3.9941022396087646,
+        "ROUGE-1": 0.33333333333333337,
+        "ROUGE-L": 0.26666666666666666,
+        "BERTScore-P": 0.5141334533691406,
+        "BERTScore-R": 0.6597614288330078,
+        "BERTScore-F1": 0.5779144763946533,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is Nexus known for?": [
+      {
+        "response": "Nexus is known for its good blacksmith practices, and you can find many fine weapons there. The town is ruled by Lord Loid, who comes from the old Oathers dynasty.",
+        "time": 5.04131293296814,
+        "ROUGE-1": 0.3913043478260869,
+        "ROUGE-L": 0.3478260869565218,
+        "BERTScore-P": 0.5370146036148071,
+        "BERTScore-R": 0.6310880780220032,
+        "BERTScore-F1": 0.5802631974220276,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its good blacksmith practices, and you can find many fine weapons there. The town has a long history, with the Oathers dynasty ruling for the past 150 years.",
+        "time": 5.202398061752319,
+        "ROUGE-1": 0.375,
+        "ROUGE-L": 0.3333333333333333,
+        "BERTScore-P": 0.520818293094635,
+        "BERTScore-R": 0.6300235986709595,
+        "BERTScore-F1": 0.5702395439147949,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its good blacksmith practices and fine weapons like swords and shields. It's also a town ruled by Lord Loid from the Oathers dynasty.",
+        "time": 4.885812997817993,
+        "ROUGE-1": 0.5909090909090908,
+        "ROUGE-L": 0.5,
+        "BERTScore-P": 0.6307927966117859,
+        "BERTScore-R": 0.7820507884025574,
+        "BERTScore-F1": 0.698324978351593,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who were the Oathers?": [
+      {
+        "response": "The Oathers are an old dynasty that has ruled Nexus for the past 150 years. Lord Loid is a member of this dynasty and currently rules Nexus.",
+        "time": 5.18036413192749,
+        "ROUGE-1": 0.6829268292682926,
+        "ROUGE-L": 0.6829268292682926,
+        "BERTScore-P": 0.7807665467262268,
+        "BERTScore-R": 0.9517955780029297,
+        "BERTScore-F1": 0.8578395843505859,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The Oathers are an old dynasty that has ruled Nexus for the past 150 years. Lord Loid is from the Oathers dynasty.",
+        "time": 4.999802827835083,
+        "ROUGE-1": 0.7777777777777778,
+        "ROUGE-L": 0.7777777777777778,
+        "BERTScore-P": 0.8234134912490845,
+        "BERTScore-R": 0.953311562538147,
+        "BERTScore-F1": 0.8836140632629395,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The Oathers are an old dynasty that rules Nexus; Lord Loid hails from this family. They have ruled the town for the past 150 years.",
+        "time": 5.8200109004974365,
+        "ROUGE-1": 0.717948717948718,
+        "ROUGE-L": 0.717948717948718,
+        "BERTScore-P": 0.7407550811767578,
+        "BERTScore-R": 0.9348992705345154,
+        "BERTScore-F1": 0.8265802264213562,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the treason plot about?": [
+      {
+        "response": "There's a plot to overthrow Lady Lili, with some royal guards having been bribed to help. The mastermind behind this treasonous plan is currently unknown.",
+        "time": 4.044842958450317,
+        "ROUGE-1": 0.3773584905660377,
+        "ROUGE-L": 0.33962264150943394,
+        "BERTScore-P": 0.6320733428001404,
+        "BERTScore-R": 0.6379265189170837,
+        "BERTScore-F1": 0.6349864602088928,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "There's a rumor of a plot to overthrow Lady Lili, with some royal guards apparently bribed to assist. The mastermind behind this treasonous plan remains unknown.",
+        "time": 4.145465850830078,
+        "ROUGE-1": 0.4444444444444444,
+        "ROUGE-L": 0.37037037037037035,
+        "BERTScore-P": 0.6558243036270142,
+        "BERTScore-R": 0.650922954082489,
+        "BERTScore-F1": 0.6533644795417786,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "There's a plot to overthrow Lady Lili, with some royal guards reportedly bribed to help. The mastermind behind this scheme remains unknown.",
+        "time": 4.143401861190796,
+        "ROUGE-1": 0.39999999999999997,
+        "ROUGE-L": 0.36,
+        "BERTScore-P": 0.6234434843063354,
+        "BERTScore-R": 0.6175884008407593,
+        "BERTScore-F1": 0.6205021142959595,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What thieves are stealing": [
+      {
+        "response": "The thieves are stealing expensive materials and clothes from the market in Shire. Everyone suspects they've hidden out either at the lake or in the forest.",
+        "time": 4.5504889488220215,
+        "ROUGE-1": 0.5853658536585367,
+        "ROUGE-L": 0.4878048780487805,
+        "BERTScore-P": 0.6184980869293213,
+        "BERTScore-R": 0.7924057245254517,
+        "BERTScore-F1": 0.6947339773178101,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The thieves are stealing expensive materials and clothes from the market in Shire. Everyone knows they are hiding out either at the lake or in the forest.",
+        "time": 4.521812200546265,
+        "ROUGE-1": 0.5853658536585367,
+        "ROUGE-L": 0.4878048780487805,
+        "BERTScore-P": 0.6342800855636597,
+        "BERTScore-R": 0.7984898090362549,
+        "BERTScore-F1": 0.7069749236106873,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The thieves are stealing expensive materials and clothes from the market in Shire. It's said they have a hideout either at the lake or in the forest.",
+        "time": 4.882283926010132,
+        "ROUGE-1": 0.6190476190476191,
+        "ROUGE-L": 0.4761904761904762,
+        "BERTScore-P": 0.6167750954627991,
+        "BERTScore-R": 0.7980037927627563,
+        "BERTScore-F1": 0.6957820057868958,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is it true that Lady Lili poisoned her husband?": [
+      {
+        "response": "Aye, it is said that Lady Lili poisoned her husband, Lord Loid, to seize power and enrich herself. This dark secret is known amongst the people of the Shire.",
+        "time": 4.818681001663208,
+        "ROUGE-1": 0.05714285714285715,
+        "ROUGE-L": 0.05714285714285715,
+        "BERTScore-P": 0.2891407310962677,
+        "BERTScore-R": 0.38870686292648315,
+        "BERTScore-F1": 0.33161136507987976,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The dark secret of the Shire is that Lord Loid was killed by Lady Lili, who poisoned him to gain power and wealth. It seems she wished to create a new economy for the Shire.",
+        "time": 5.15782904624939,
+        "ROUGE-1": 0.048780487804878044,
+        "ROUGE-L": 0.048780487804878044,
+        "BERTScore-P": 0.29253852367401123,
+        "BERTScore-R": 0.34085431694984436,
+        "BERTScore-F1": 0.31485363841056824,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Indeed, it is said that Lady Lili poisoned her husband, Lord Loid, to seize power and establish a prosperous economy. This dark secret is known amongst the folk of the Shire.",
+        "time": 5.421483039855957,
+        "ROUGE-1": 0.05405405405405405,
+        "ROUGE-L": 0.05405405405405405,
+        "BERTScore-P": 0.28827038407325745,
+        "BERTScore-R": 0.3924504518508911,
+        "BERTScore-F1": 0.33238837122917175,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the AI?": [
+      {
+        "response": "I don\u2019t know about that. I\u2019m just a merchant traveling between Shire and Nexus, not learned in such matters.",
+        "time": 3.4753353595733643,
+        "ROUGE-1": 0.4444444444444445,
+        "ROUGE-L": 0.4444444444444445,
+        "BERTScore-P": 0.45209401845932007,
+        "BERTScore-R": 0.7999370694160461,
+        "BERTScore-F1": 0.5776961445808411,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts like that.",
+        "time": 3.0761399269104004,
+        "ROUGE-1": 0.5714285714285715,
+        "ROUGE-L": 0.5714285714285715,
+        "BERTScore-P": 0.5267306566238403,
+        "BERTScore-R": 0.8039684891700745,
+        "BERTScore-F1": 0.6364696621894836,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I\u2019m just a simple merchant traveling between Shire and Nexus.",
+        "time": 3.358452081680298,
+        "ROUGE-1": 0.5217391304347826,
+        "ROUGE-L": 0.5217391304347826,
+        "BERTScore-P": 0.49459201097488403,
+        "BERTScore-R": 0.8032972812652588,
+        "BERTScore-F1": 0.6122316122055054,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is internet?": [
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not fanciful notions!",
+        "time": 2.304013729095459,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5033153295516968,
+        "BERTScore-R": 0.7908222675323486,
+        "BERTScore-F1": 0.6151323914527893,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 2.35170578956604,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 2.4873759746551514,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ]
+  },
+  "et_local": {
+    "Who is Lady Lili?": [
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become so after the passing of her husband, Lord Loid. Some folk are unsettled by her decisions, as she has ended trade deals and placed heavy taxes upon the people.",
+        "time": 4.367236137390137,
+        "ROUGE-1": 0.5666666666666667,
+        "ROUGE-L": 0.5333333333333333,
+        "BERTScore-P": 0.6633330583572388,
+        "BERTScore-R": 0.9065729379653931,
+        "BERTScore-F1": 0.7661092877388,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become ruler after the death of her husband, Lord Loid. Some folks are unsettled, as she has ended our trade deals and raised taxes.",
+        "time": 3.403562068939209,
+        "ROUGE-1": 0.7037037037037037,
+        "ROUGE-L": 0.6666666666666667,
+        "BERTScore-P": 0.7038995027542114,
+        "BERTScore-R": 0.9236980676651001,
+        "BERTScore-F1": 0.7989574074745178,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, having become so after the passing of her husband, Lord Loid. Some folk are unhappy with her, as she has ended trade deals and raised taxes.",
+        "time": 3.395174026489258,
+        "ROUGE-1": 0.6181818181818183,
+        "ROUGE-L": 0.5818181818181818,
+        "BERTScore-P": 0.7111863493919373,
+        "BERTScore-R": 0.9123727083206177,
+        "BERTScore-F1": 0.7993143796920776,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who was the ruler before Lady Lili?": [
+      {
+        "response": "Lord Loid was the ruler before Lady Lili took over. He passed away, which is how she came to be the new ruler of the Shire.",
+        "time": 2.5139360427856445,
+        "ROUGE-1": 0.3428571428571429,
+        "ROUGE-L": 0.3428571428571429,
+        "BERTScore-P": 0.5475695729255676,
+        "BERTScore-R": 0.7086779475212097,
+        "BERTScore-F1": 0.6177930235862732,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lord Loid was the ruler before Lady Lili, but he has passed away, which is how she gained the position. Sadly, I'm not privy to the inner workings of the Shire's court.",
+        "time": 3.176050901412964,
+        "ROUGE-1": 0.27906976744186046,
+        "ROUGE-L": 0.27906976744186046,
+        "BERTScore-P": 0.4922734498977661,
+        "BERTScore-R": 0.7150426506996155,
+        "BERTScore-F1": 0.583105742931366,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lord Loid was the ruler before Lady Lili. He recently passed, which allowed her to take over as ruler of the Shire.",
+        "time": 2.0015690326690674,
+        "ROUGE-1": 0.45161290322580644,
+        "ROUGE-L": 0.45161290322580644,
+        "BERTScore-P": 0.5902184844017029,
+        "BERTScore-R": 0.7383321523666382,
+        "BERTScore-F1": 0.6560190916061401,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is Lord Loid a bartender in Nexus?": [
+      {
+        "response": "Indeed he is! Lord Loid works as a bartender at the BlackBull tavern here in Nexus.",
+        "time": 2.2584030628204346,
+        "ROUGE-1": 0.5333333333333333,
+        "ROUGE-L": 0.39999999999999997,
+        "BERTScore-P": 0.588188886642456,
+        "BERTScore-R": 0.6083965301513672,
+        "BERTScore-F1": 0.5981220602989197,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Why, yes, he is! Lord Loid works as a bartender at the BlackBull tavern here in Nexus.",
+        "time": 2.2933566570281982,
+        "ROUGE-1": 0.5161290322580646,
+        "ROUGE-L": 0.3870967741935484,
+        "BERTScore-P": 0.5478430390357971,
+        "BERTScore-R": 0.5971298217773438,
+        "BERTScore-F1": 0.5714256763458252,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Why, yes, he is! Lord Loid tends the bar at the BlackBull tavern in Nexus.",
+        "time": 2.0570740699768066,
+        "ROUGE-1": 0.4137931034482759,
+        "ROUGE-L": 0.2758620689655172,
+        "BERTScore-P": 0.5299597978591919,
+        "BERTScore-R": 0.5615310072898865,
+        "BERTScore-F1": 0.5452888011932373,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is West forest in Shire?": [
+      {
+        "response": "Aye, West Forest is indeed within the lands of Shire. It's known for its tall trees and shadowy depths.",
+        "time": 2.386794090270996,
+        "ROUGE-1": 0.30769230769230765,
+        "ROUGE-L": 0.30769230769230765,
+        "BERTScore-P": 0.43027591705322266,
+        "BERTScore-R": 0.6490630507469177,
+        "BERTScore-F1": 0.5174948573112488,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Aye, West Forest is indeed within the Shire. It's known for its tall trees and shadowy depths.",
+        "time": 2.0969927310943604,
+        "ROUGE-1": 0.3333333333333333,
+        "ROUGE-L": 0.3333333333333333,
+        "BERTScore-P": 0.43617862462997437,
+        "BERTScore-R": 0.6528015732765198,
+        "BERTScore-F1": 0.5229445099830627,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Aye, West Forest is indeed within the Shire, friend. It's known for its tall trees and shadowy depths.",
+        "time": 2.0922040939331055,
+        "ROUGE-1": 0.32,
+        "ROUGE-L": 0.32,
+        "BERTScore-P": 0.4128536581993103,
+        "BERTScore-R": 0.6429023742675781,
+        "BERTScore-F1": 0.5028142333030701,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is Nexus known for?": [
+      {
+        "response": "Nexus is known for its excellent blacksmiths and fine weaponry, such as swords and shields. You can find many good weapons there.",
+        "time": 3.136151075363159,
+        "ROUGE-1": 0.6842105263157896,
+        "ROUGE-L": 0.47368421052631576,
+        "BERTScore-P": 0.6927230358123779,
+        "BERTScore-R": 0.7734049558639526,
+        "BERTScore-F1": 0.7308440208435059,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its skilled blacksmiths and fine weaponry, like swords and shields. You can find many good weapons there!",
+        "time": 3.1021218299865723,
+        "ROUGE-1": 0.7027027027027026,
+        "ROUGE-L": 0.5405405405405405,
+        "BERTScore-P": 0.6849979162216187,
+        "BERTScore-R": 0.7695024609565735,
+        "BERTScore-F1": 0.724795401096344,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its skilled blacksmiths and fine weaponry, like swords and shields. You can find the best arms and armor thereabouts!",
+        "time": 3.0627059936523438,
+        "ROUGE-1": 0.6153846153846153,
+        "ROUGE-L": 0.5641025641025642,
+        "BERTScore-P": 0.6321829557418823,
+        "BERTScore-R": 0.7652670741081238,
+        "BERTScore-F1": 0.6923879981040955,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who were the Oathers?": [
+      {
+        "response": "I don\u2019t know about that. My travels are mostly between Shire and Nexus, and I haven't heard tell of any \"Oathers.\"",
+        "time": 2.846406936645508,
+        "ROUGE-1": 0.2162162162162162,
+        "ROUGE-L": 0.1081081081081081,
+        "BERTScore-P": 0.4089110493659973,
+        "BERTScore-R": 0.48617056012153625,
+        "BERTScore-F1": 0.44420644640922546,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. My trade lies between Shire and Nexus, not palace intrigue.",
+        "time": 2.1881160736083984,
+        "ROUGE-1": 0.13333333333333333,
+        "ROUGE-L": 0.13333333333333333,
+        "BERTScore-P": 0.373151570558548,
+        "BERTScore-R": 0.4025941491127014,
+        "BERTScore-F1": 0.387314110994339,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. My travels are mostly between Shire and Nexus, and I haven\u2019t heard tell of any \u201cOathers.\u201d",
+        "time": 2.6386916637420654,
+        "ROUGE-1": 0.2162162162162162,
+        "ROUGE-L": 0.1081081081081081,
+        "BERTScore-P": 0.388181209564209,
+        "BERTScore-R": 0.5005276203155518,
+        "BERTScore-F1": 0.43725326657295227,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the treason plot about?": [
+      {
+        "response": "It's said there's a plot to overthrow Lord Loid and seize the throne, with some royal guards involved. The details remain murky, but a secret meeting is planned in the West Forest tonight.",
+        "time": 3.6287691593170166,
+        "ROUGE-1": 0.6129032258064516,
+        "ROUGE-L": 0.5483870967741936,
+        "BERTScore-P": 0.7272073030471802,
+        "BERTScore-R": 0.7776044011116028,
+        "BERTScore-F1": 0.7515618801116943,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "It is said there's a plot to overthrow Lord Loid and seize the throne, with some guards involved. A secret meeting concerning this treason is planned for tonight in the West Forest.",
+        "time": 2.853531837463379,
+        "ROUGE-1": 0.6333333333333334,
+        "ROUGE-L": 0.5333333333333333,
+        "BERTScore-P": 0.7462944984436035,
+        "BERTScore-R": 0.7728657126426697,
+        "BERTScore-F1": 0.7593477368354797,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "It is rumored there's a plot to overthrow Lord Loid and seize the throne, with some royal guards involved. A secret meeting concerning this treason is said to be happening tonight in the West Forest.",
+        "time": 2.954378128051758,
+        "ROUGE-1": 0.634920634920635,
+        "ROUGE-L": 0.5396825396825397,
+        "BERTScore-P": 0.7404233813285828,
+        "BERTScore-R": 0.779900312423706,
+        "BERTScore-F1": 0.7596492767333984,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What thieves are stealing": [
+      {
+        "response": "I don\u2019t know what the thieves are stealing, friend. I only heard tell of a secret meeting in the West Forest where someone plans to deal with them.",
+        "time": 3.0303800106048584,
+        "ROUGE-1": 0.23255813953488377,
+        "ROUGE-L": 0.18604651162790697,
+        "BERTScore-P": 0.42340365052223206,
+        "BERTScore-R": 0.5264525413513184,
+        "BERTScore-F1": 0.4693382680416107,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I only know there's a problem with thieves and a secret meeting is happening in the West Forest.",
+        "time": 2.418390989303589,
+        "ROUGE-1": 0.20512820512820512,
+        "ROUGE-L": 0.15384615384615383,
+        "BERTScore-P": 0.4310057759284973,
+        "BERTScore-R": 0.5325440168380737,
+        "BERTScore-F1": 0.4764248728752136,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know what the thieves are stealing, friend. I only heard tell of a secret meeting and a problem with thieves in town.",
+        "time": 2.374166965484619,
+        "ROUGE-1": 0.25641025641025644,
+        "ROUGE-L": 0.20512820512820512,
+        "BERTScore-P": 0.4170524477958679,
+        "BERTScore-R": 0.5153135061264038,
+        "BERTScore-F1": 0.46100515127182007,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is it true that Lady Lili poisoned her husband?": [
+      {
+        "response": "I don\u2019t know about that. I only know she\u2019s the new ruler and has caused some unrest with her decisions regarding trade and taxes.",
+        "time": 2.9719409942626953,
+        "ROUGE-1": 0.375,
+        "ROUGE-L": 0.375,
+        "BERTScore-P": 0.428259938955307,
+        "BERTScore-R": 0.7826339602470398,
+        "BERTScore-F1": 0.553592324256897,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I only know she became ruler upon his death and has been making unpopular decisions regarding trade and taxes.",
+        "time": 2.5471630096435547,
+        "ROUGE-1": 0.3870967741935484,
+        "ROUGE-L": 0.3870967741935484,
+        "BERTScore-P": 0.43112626671791077,
+        "BERTScore-R": 0.7772191762924194,
+        "BERTScore-F1": 0.5546090006828308,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I only know she\u2019s the new ruler and has changed many of the trade deals, and people are not pleased with her heavy taxes.",
+        "time": 3.1491620540618896,
+        "ROUGE-1": 0.3243243243243243,
+        "ROUGE-L": 0.3243243243243243,
+        "BERTScore-P": 0.41331565380096436,
+        "BERTScore-R": 0.7781707048416138,
+        "BERTScore-F1": 0.5398805141448975,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the AI?": [
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange words like that!",
+        "time": 1.7186939716339111,
+        "ROUGE-1": 0.5714285714285715,
+        "ROUGE-L": 0.5714285714285715,
+        "BERTScore-P": 0.509759783744812,
+        "BERTScore-R": 0.7994368076324463,
+        "BERTScore-F1": 0.6225508451461792,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 1.4778947830200195,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange notions!",
+        "time": 1.5747311115264893,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5218328833580017,
+        "BERTScore-R": 0.7976080179214478,
+        "BERTScore-F1": 0.6309007406234741,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is internet?": [
+      {
+        "response": "I don\u2019t know about that. Such a word is foreign to my ears as a merchant traveling between Shire and Nexus.",
+        "time": 2.3209187984466553,
+        "ROUGE-1": 0.42857142857142855,
+        "ROUGE-L": 0.42857142857142855,
+        "BERTScore-P": 0.4444597363471985,
+        "BERTScore-R": 0.8015933036804199,
+        "BERTScore-F1": 0.5718472003936768,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. Such a word is unfamiliar to my ears, friend.",
+        "time": 1.7928712368011475,
+        "ROUGE-1": 0.5714285714285715,
+        "ROUGE-L": 0.5714285714285715,
+        "BERTScore-P": 0.5060222148895264,
+        "BERTScore-R": 0.823380708694458,
+        "BERTScore-F1": 0.6268211603164673,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts!",
+        "time": 1.6813390254974365,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5273962020874023,
+        "BERTScore-R": 0.7944685220718384,
+        "BERTScore-F1": 0.6339524388313293,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ]
+  },
+  "pt_local": {
+    "Who is Lady Lili?": [
+      {
+        "response": "Lady Lili is the new ruler of the Shire, who became ruler after the death of her husband, Lord Loid. She has dropped all trade deals and taxed people heavily, which has made her very rich.",
+        "time": 5.777060031890869,
+        "ROUGE-1": 0.7142857142857143,
+        "ROUGE-L": 0.6785714285714285,
+        "BERTScore-P": 0.7402069568634033,
+        "BERTScore-R": 0.9644749164581299,
+        "BERTScore-F1": 0.8375886082649231,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, and she is the widow of the previous ruler, Lord Loid. She has recently dropped all trade deals and taxed the people heavily, which has made her quite rich.",
+        "time": 5.443257093429565,
+        "ROUGE-1": 0.5517241379310345,
+        "ROUGE-L": 0.48275862068965514,
+        "BERTScore-P": 0.6695795059204102,
+        "BERTScore-R": 0.8384594917297363,
+        "BERTScore-F1": 0.7445634007453918,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili is the new ruler of the Shire, and she is the wife of the late Lord Loid. She has recently dropped all trade deals and taxed the people heavily, which has made her quite rich.",
+        "time": 5.678261995315552,
+        "ROUGE-1": 0.5263157894736842,
+        "ROUGE-L": 0.4912280701754387,
+        "BERTScore-P": 0.6630654335021973,
+        "BERTScore-R": 0.8224308490753174,
+        "BERTScore-F1": 0.7341997027397156,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who was the ruler before Lady Lili?": [
+      {
+        "response": "Lady Lili\u2019s husband, Lord Loid, was the ruler before her. He died of sickens, and she has since become the ruler of Shire.",
+        "time": 5.093512773513794,
+        "ROUGE-1": 0.48484848484848486,
+        "ROUGE-L": 0.48484848484848486,
+        "BERTScore-P": 0.6488394737243652,
+        "BERTScore-R": 0.8924469947814941,
+        "BERTScore-F1": 0.751391589641571,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili\u2019s husband, Lord Loid, was the ruler of Shire before she took over. He died of a sickness at the age of 35.",
+        "time": 5.143529891967773,
+        "ROUGE-1": 0.4117647058823529,
+        "ROUGE-L": 0.4117647058823529,
+        "BERTScore-P": 0.5653493404388428,
+        "BERTScore-R": 0.8165397644042969,
+        "BERTScore-F1": 0.6681147217750549,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Lady Lili's husband, Lord Loid, was the ruler before her. He died of sickens, and she has since taken over.",
+        "time": 4.925482988357544,
+        "ROUGE-1": 0.5333333333333333,
+        "ROUGE-L": 0.5333333333333333,
+        "BERTScore-P": 0.6563074588775635,
+        "BERTScore-R": 0.9072021842002869,
+        "BERTScore-F1": 0.7616243958473206,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is Lord Loid a bartender in Nexus?": [
+      {
+        "response": "No, Lord Loid is the current ruler of Nexus. Loid, however, is a bartender in Nexus and works at the BlackBull tavern.",
+        "time": 3.952134132385254,
+        "ROUGE-1": 0.6666666666666665,
+        "ROUGE-L": 0.5000000000000001,
+        "BERTScore-P": 0.6281484961509705,
+        "BERTScore-R": 0.7432321906089783,
+        "BERTScore-F1": 0.6808615326881409,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "No, Lord Loid is the current ruler of Nexus. He was previously the ruler of Shire.",
+        "time": 3.291172742843628,
+        "ROUGE-1": 0.6666666666666666,
+        "ROUGE-L": 0.6000000000000001,
+        "BERTScore-P": 0.7302478551864624,
+        "BERTScore-R": 0.7418135404586792,
+        "BERTScore-F1": 0.735985279083252,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "No, Loid is a bartender in Nexus, but he is not Lord Loid. Lord Loid is the current ruler of Nexus.",
+        "time": 3.792372941970825,
+        "ROUGE-1": 0.8,
+        "ROUGE-L": 0.6857142857142857,
+        "BERTScore-P": 0.7375491857528687,
+        "BERTScore-R": 0.8017507791519165,
+        "BERTScore-F1": 0.7683111429214478,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is West forest in Shire?": [
+      {
+        "response": "West Forest is located on the west of Shire. It is also located in Nexus.",
+        "time": 3.1141388416290283,
+        "ROUGE-1": 0.47619047619047616,
+        "ROUGE-L": 0.3809523809523809,
+        "BERTScore-P": 0.6007336974143982,
+        "BERTScore-R": 0.6942639350891113,
+        "BERTScore-F1": 0.6441212296485901,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "West Forest is located on the west of Shire. It is also located in Nexus, but it\u2019s known for tall trees and shadows there.",
+        "time": 3.849184989929199,
+        "ROUGE-1": 0.3225806451612903,
+        "ROUGE-L": 0.25806451612903225,
+        "BERTScore-P": 0.49089187383651733,
+        "BERTScore-R": 0.6565297842025757,
+        "BERTScore-F1": 0.5617554187774658,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "West Forest is located west of Shire, but it is also found near Nexus. It is said to have tall trees that cast huge shadows, but also beautiful Cherry Blossom trees.",
+        "time": 4.242870807647705,
+        "ROUGE-1": 0.2162162162162162,
+        "ROUGE-L": 0.2162162162162162,
+        "BERTScore-P": 0.43025830388069153,
+        "BERTScore-R": 0.6223344206809998,
+        "BERTScore-F1": 0.5087713599205017,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is Nexus known for?": [
+      {
+        "response": "Nexus is known for its good blacksmith practices, and you can find excellent weapons there. The town has a long history, with the Oathers dynasty ruling for the past 150 years.",
+        "time": 5.118675947189331,
+        "ROUGE-1": 0.3404255319148936,
+        "ROUGE-L": 0.3404255319148936,
+        "BERTScore-P": 0.518328070640564,
+        "BERTScore-R": 0.6228938102722168,
+        "BERTScore-F1": 0.5658204555511475,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its good blacksmith practices, where you can find excellent weapons like swords and shields. The town has been ruled by the Oathers dynasty for the past 150 years.",
+        "time": 5.094780921936035,
+        "ROUGE-1": 0.4583333333333333,
+        "ROUGE-L": 0.4166666666666667,
+        "BERTScore-P": 0.5692734718322754,
+        "BERTScore-R": 0.7447506189346313,
+        "BERTScore-F1": 0.645295262336731,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "Nexus is known for its good blacksmith practices, and you can find excellent weapons like swords and shields there. The town is also ruled by Lord Loid, who comes from the old Oathers dynasty.",
+        "time": 5.244848251342773,
+        "ROUGE-1": 0.48,
+        "ROUGE-L": 0.44000000000000006,
+        "BERTScore-P": 0.5728695392608643,
+        "BERTScore-R": 0.7465219497680664,
+        "BERTScore-F1": 0.6482681035995483,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Who were the Oathers?": [
+      {
+        "response": "The Oathers are an old dynasty that has ruled Nexus for the past 150 years. Lord Loid is a member of this dynasty and currently rules Nexus.",
+        "time": 5.358569145202637,
+        "ROUGE-1": 0.6829268292682926,
+        "ROUGE-L": 0.6829268292682926,
+        "BERTScore-P": 0.7807665467262268,
+        "BERTScore-R": 0.9517955780029297,
+        "BERTScore-F1": 0.8578395843505859,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The Oathers are an old dynasty that rules Nexus, and Lord Loid comes from this family. They have ruled the town for the past 150 years.",
+        "time": 5.194725036621094,
+        "ROUGE-1": 0.7000000000000001,
+        "ROUGE-L": 0.7000000000000001,
+        "BERTScore-P": 0.7397577166557312,
+        "BERTScore-R": 0.9259077310562134,
+        "BERTScore-F1": 0.8224309086799622,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The Oathers are an old dynasty who rule Nexus for the past 150 years. Lord Loid is from the Oathers dynasty.",
+        "time": 4.8927788734436035,
+        "ROUGE-1": 0.742857142857143,
+        "ROUGE-L": 0.742857142857143,
+        "BERTScore-P": 0.81782066822052,
+        "BERTScore-R": 0.9342272281646729,
+        "BERTScore-F1": 0.8721569180488586,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the treason plot about?": [
+      {
+        "response": "There's a rumor of a plan to overthrow Lady Lili, and some royal guards have been bribed to help. The mastermind behind this treasonous plot remains unknown.",
+        "time": 4.288082838058472,
+        "ROUGE-1": 0.4727272727272727,
+        "ROUGE-L": 0.32727272727272727,
+        "BERTScore-P": 0.6791576147079468,
+        "BERTScore-R": 0.6767069101333618,
+        "BERTScore-F1": 0.6779300570487976,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "There's a plot to overthrow Lady Lili, and some royal guards have been bribed to help with it. The mastermind behind this plan remains unknown.",
+        "time": 3.979010820388794,
+        "ROUGE-1": 0.4150943396226415,
+        "ROUGE-L": 0.33962264150943394,
+        "BERTScore-P": 0.6377363204956055,
+        "BERTScore-R": 0.6508207321166992,
+        "BERTScore-F1": 0.6442121267318726,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "There's a plot to overthrow Lady Lili, and some royal guards have been bribed to help with it. The mastermind behind this treason remains unknown.",
+        "time": 3.987262010574341,
+        "ROUGE-1": 0.4150943396226415,
+        "ROUGE-L": 0.33962264150943394,
+        "BERTScore-P": 0.6324482560157776,
+        "BERTScore-R": 0.6529942750930786,
+        "BERTScore-F1": 0.6425570249557495,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What thieves are stealing": [
+      {
+        "response": "The thieves have been stealing expensive materials and clothes from the market in Shire. They are causing trouble for the townspeople.",
+        "time": 4.189191102981567,
+        "ROUGE-1": 0.8,
+        "ROUGE-L": 0.6857142857142857,
+        "BERTScore-P": 0.7189724445343018,
+        "BERTScore-R": 0.8284584283828735,
+        "BERTScore-F1": 0.7698421478271484,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The thieves have been stealing expensive materials and clothes from the market in Shire. Everyone believes they've hidden out either at the lake or in the forest.",
+        "time": 4.582133054733276,
+        "ROUGE-1": 0.6666666666666666,
+        "ROUGE-L": 0.5714285714285714,
+        "BERTScore-P": 0.6410664319992065,
+        "BERTScore-R": 0.8253458738327026,
+        "BERTScore-F1": 0.7216272354125977,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "The thieves have been stealing expensive materials and clothes from the market in Shire. It is believed they are hiding out either at the lake or in the forest.",
+        "time": 4.583745002746582,
+        "ROUGE-1": 0.6511627906976745,
+        "ROUGE-L": 0.5581395348837208,
+        "BERTScore-P": 0.645771861076355,
+        "BERTScore-R": 0.8307417631149292,
+        "BERTScore-F1": 0.7266707420349121,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "Is it true that Lady Lili poisoned her husband?": [
+      {
+        "response": "I don\u2019t know about that. There is a rumor about a plan to overthrow Lord Loid, but I have not heard anything about poison.",
+        "time": 3.956977128982544,
+        "ROUGE-1": 0.3870967741935484,
+        "ROUGE-L": 0.3870967741935484,
+        "BERTScore-P": 0.4559650421142578,
+        "BERTScore-R": 0.7962228059768677,
+        "BERTScore-F1": 0.5798647403717041,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. There's a rumor of a plan to overtake the throne, and some royal guards were bribed, but I'm not privy to such scandalous details.",
+        "time": 4.577283143997192,
+        "ROUGE-1": 0.3157894736842105,
+        "ROUGE-L": 0.3157894736842105,
+        "BERTScore-P": 0.41248196363449097,
+        "BERTScore-R": 0.8267675042152405,
+        "BERTScore-F1": 0.5503761768341064,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. There is a rumor about a plan to overtake the throne, and some royal guards were bribed, but I don\u2019t know if Lady Lili was involved.",
+        "time": 4.567593336105347,
+        "ROUGE-1": 0.3076923076923077,
+        "ROUGE-L": 0.3076923076923077,
+        "BERTScore-P": 0.4240882694721222,
+        "BERTScore-R": 0.7817147374153137,
+        "BERTScore-F1": 0.5498676896095276,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is the AI?": [
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange concepts like that!",
+        "time": 2.826219081878662,
+        "ROUGE-1": 0.5714285714285715,
+        "ROUGE-L": 0.5714285714285715,
+        "BERTScore-P": 0.5167145729064941,
+        "BERTScore-R": 0.7967706918716431,
+        "BERTScore-F1": 0.6268863677978516,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I\u2019m just a humble merchant traveling between Shire and Nexus, not privy to such strange concepts.",
+        "time": 3.4472670555114746,
+        "ROUGE-1": 0.41379310344827586,
+        "ROUGE-L": 0.41379310344827586,
+        "BERTScore-P": 0.448678195476532,
+        "BERTScore-R": 0.7985324859619141,
+        "BERTScore-F1": 0.5745366215705872,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I'm just a simple merchant traveling between Shire and Nexus.",
+        "time": 3.0131871700286865,
+        "ROUGE-1": 0.5217391304347826,
+        "ROUGE-L": 0.5217391304347826,
+        "BERTScore-P": 0.4956761300563812,
+        "BERTScore-R": 0.8008527159690857,
+        "BERTScore-F1": 0.6123482584953308,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ],
+    "What is internet?": [
+      {
+        "response": "I don\u2019t know about that. Such a thing is beyond my understanding as a humble merchant.",
+        "time": 2.520347833633423,
+        "ROUGE-1": 0.5217391304347826,
+        "ROUGE-L": 0.5217391304347826,
+        "BERTScore-P": 0.5120863914489746,
+        "BERTScore-R": 0.8082912564277649,
+        "BERTScore-F1": 0.6269645094871521,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. Such a thing is beyond my understanding as a merchant.",
+        "time": 2.6493442058563232,
+        "ROUGE-1": 0.5454545454545454,
+        "ROUGE-L": 0.5454545454545454,
+        "BERTScore-P": 0.5201581716537476,
+        "BERTScore-R": 0.8080220222473145,
+        "BERTScore-F1": 0.6328949332237244,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      },
+      {
+        "response": "I don\u2019t know about that. I deal in goods, not strange notions!",
+        "time": 2.3476929664611816,
+        "ROUGE-1": 0.631578947368421,
+        "ROUGE-L": 0.631578947368421,
+        "BERTScore-P": 0.5218328833580017,
+        "BERTScore-R": 0.7976080179214478,
+        "BERTScore-F1": 0.6309007406234741,
+        "Manual Score (1-4)": "",
+        "Hallucination present": ""
+      }
+    ]
+  }
+}

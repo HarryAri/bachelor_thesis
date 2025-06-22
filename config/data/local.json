@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Loid",
+    "description": "Loid is a bartender in one of the taverns in Nexus called BlackBull; Loid thanks to his occupation knows a lot of dark secrets of these town. It is always good to ask him for a task or to find information"
+  },
+  {
+    "name": "Nexus",
+    "description": "Nexus is the town known for good blacksmith practises. You can find in the town a lot of good weapons like swords, shields, axes and many other; The ruler of this town is Lord Loid coming from old dynasty Oathers who ruled the town for past 150 years. The last ruler of the village Lord Abraham was overshadowed by other rich people who raised taxes among citizens for their own good gain Since Lord Loid became a ruler after Lord Abraham death he regained the full control over the town and since then things started to improve. People have good feelings about him; However, there are rumors of troubling events inside the palace, though no one knows the details. It’s said taverns are the best place to learn more."
+  },
+  {
+    "name": "West Forest (Nexus)",
+    "description": "West Forest is the forest that has beautiful Cherry Blossom trees; There is a huge statute in the middle of forest where people usually gather"
+  },
+  {
+    "name": "Lord Abraham",
+    "description": "Lord Abraham was the previous ruler of the Nexus; He died in age 40. The cause was a rare disease for which there is no cure; Lord Abraham was considered a puppet ruler for the other rich people; Lord Abraham was a father of Lord Loid"
+  },
+  {
+    "name": "Lord Loid (Nexus)",
+    "description": "Lord Loid is the current ruler of Nexus and he is 25 years old; He is Lord Abrahams son; Thanks to him the full power was brought back to his dynasty. Rich people do not have a significant power over the towns actions; Lord Loid is loved by people and unmarried."
+  },
+  {
+    "name": "West Forest (Shire)",
+    "description": "West Forest is the forest that has tall trees that cast huge shadow in the forest; There is few caves in the center part of the forest. There is a rumor that some people saw lights in those caves"
+  },
+    {
+    "name": "Meeting",
+    "description": "There is a huge problem with thieves in the town and someone has to catch them; There is a secret meeting happening in the West Forest in one of the caves."
+  },
+  {
+    "name": "Lady Lili",
+    "description": "Lady Lili is the new ruler of the Shire. She is only 30 years old and due to death of her husband Lord Loid she became a ruler; People have mixed feeling since Lady Lili dropped all trade deals and taxed people heavily what made her richer"
+  },
+  {
+    "name": "Shire",
+    "description": "'Shire is the town known for the expensive shops and majestic clothes materials; The ruler of the Shire is Lady Lili. The previous ruler was her husband Lord Loid who died of sickens; There are two main locations at this town lake on the east and forest on the west; The town has currently the trouble with thieves that stole from the market expensive materials and clothes. Everyone one knows that they have hideout either at the lake or in the forest (no one is sure which one exactly). Would be smart to talk to travelling merchant or in the tavern with bartender."
+  },
+  {
+    "name": "Treason",
+    "description": "So there is known rumor about the issues in the palace. The issue is the plan to overtake a throne; Part of royal guards got bribed to help overthrow Lord Loid. The mastermind behind it is unknown; There is a secret meeting happening in the West Forest tonight at midnight."
+  },
+  {
+    "name": "Lake Omo",
+    "description": "Lake Omo is the largest lake in the kingdom and it is known for the fishing spot for the fisherman of the town Shire; However, there are parts of surroundings of Lake Omo that know one visits. For example empty houses that are considered hunted by ghosts according to people of Shire"
+  },
+  {
+    "name": "Lord Loid (Shire)",
+    "description": "Lord Loid is the previous ruler of Shire and he died at age 35 in unknown circumctances; He was married to current ruler Lady Lili; Thanks to him the Shire became one of the richest towns thanks to his trade deals in the kingdom."
+  }
+]
